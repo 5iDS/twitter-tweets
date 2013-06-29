@@ -2,7 +2,7 @@
 /* 
 Plugin Name: Twitter Tweets
 Description: Display Latest Tweets from a User (API 1.1).
-Version: 0.5.0
+Version: 0.5.1
 Author: ...a few good HipHoppers...
 Author URI: http://www.5ivedesign.co.za
 License: GPL2
